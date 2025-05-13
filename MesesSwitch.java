@@ -19,7 +19,7 @@ public class MesesSwitch{
             case 2:
             System.out.println("El mes correspondiente es February");
             break;
-            case 3
+            case 3:
             System.out.println("El mes correspondiente es March");
             case 4:
             System.out.println("El mes correspondiente es April");
